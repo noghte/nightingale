@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebi-webcomponents/nightingale.git"
+    "url": "https://github.com/noghte/nightingale.git"
   },
   "bugs": {
-    "url": "https://github.com/ebi-webcomponents/nightingale/issues"
+    "url": "https://github.com/noghte/nightingale/issues"
   },
   "homepage": "https://ebi-webcomponents.github.io/nightingale/",
   "author": "Gustavo Salazar <gsalazar@ebi.ac.uk>",
